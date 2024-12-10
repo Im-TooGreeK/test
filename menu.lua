@@ -13,7 +13,7 @@ local RayfieldLibrary = {
 		Serenity = {
 			TextColor = Color3.fromRGB(50, 55, 60),
 			Background = Color3.fromRGB(240, 245, 250),
-			BackgroundTransparency = 1,  -- Прозрачность фона (0 = непрозрачный, 1 = прозрачный)
+			BackgroundTransparency = 0.5,  -- Прозрачность фона (0 = непрозрачный, 1 = прозрачный)
 			Topbar = Color3.fromRGB(215, 225, 235),
 			Shadow = Color3.fromRGB(200, 210, 220),
 		
@@ -182,6 +182,7 @@ local function ChangeTheme(Theme)
 	Rayfield.Main.Topbar.BackgroundColor3 = SelectedTheme.Topbar
 	Rayfield.Main.Topbar.CornerRepair.BackgroundColor3 = SelectedTheme.Topbar
 	Rayfield.Main.Shadow.Image.ImageColor3 = SelectedTheme.Shadow
+	Rayfield.Main.Topbar.BackgroundTransparency = 0.5
 
 	Rayfield.Main.Topbar.ChangeSize.ImageColor3 = SelectedTheme.TextColor
 	Rayfield.Main.Topbar.Hide.ImageColor3 = SelectedTheme.TextColor
